@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a bot made to keep the server online",
+        "Subscribe to shadowforgedd!"
       ]
     },
     "chat-log": true,
