@@ -30,9 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a bot made to keep the server online",
-        "Subscribe to shadowforgedd!"
+     
       ]
     },
     "chat-log": true,
