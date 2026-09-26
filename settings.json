@@ -25,6 +25,7 @@
     "anti-afk": {
       "enabled": true,
       "sneak": true
+    }
   },
   "movement": {
     "enabled": true,
@@ -65,4 +66,5 @@
       "disconnect": true,
       "chat": false
     }
+  }
 }
