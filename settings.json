@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "SHADOWSMP-UPo2.aternos.me",
-    "port": ,
+    "port": 12445,
     "version": "",
     "try-creative": false
   },
