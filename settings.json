@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SHADOWSMP-UPo2.aternos.me",
-    "port": 12445,
+    "ip": "lunarianet.aternos.me",
+    "port": 33980,
     "version": "",
     "try-creative": false
   },
